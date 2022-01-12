@@ -1,4 +1,4 @@
-<img src="https://github.com/Im-unk/Im-unk/blob/master/github.png" width="100%"></img> 
+<img src="https://github.com/Im-unk/Im-unk/blob/master/gthb.png" width="100%"></img> 
 
 ### Hi 👋
 
