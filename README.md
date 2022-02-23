@@ -2,7 +2,7 @@
 
 ## Greetings 👋
 
-I'm Iman Asgari, I'm student of software engineering and I love developing website and mobile apps! 
+I'm Iman Asgari, I'm student of software engineering and I love developing website and mobile apps! Currently into React and and Flutter for developing variety of  apps and and web applications. Studying bachelor's degree of Software Engineering. Love to learn new skills and trend topics to study!
 
 ### Find me on: 
 
